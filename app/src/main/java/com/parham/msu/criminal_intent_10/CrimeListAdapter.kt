@@ -25,6 +25,7 @@ class CrimeHolder(
 
 }
 
+
 class CrimeListAdapter(private val crimes: List<Crime>) : RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
     //Test New Code
